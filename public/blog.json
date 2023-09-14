@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/NxFVB8m/cover5.jpg",
+      "title": "The Mystery of the Lost Key",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/4WCs5nW/author2.jpg",
+      "posted_date": "2023-09-14",
+      "reading_time": 45,
+      "hashtags": ["mystery", "adventure", "puzzle"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/fn21BwR/cover4.jpg",
+      "title": "Cooking with Flavors",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/4WCs5nW/author2.jpg",
+      "posted_date": "2023-09-13",
+      "reading_time": 30,
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/VBZPW47/cover3.jpg",
+      "title": "Traveling the World on a Budget",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/4WCs5nW/author2.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": 60,
+      "hashtags": ["travel", "budget", "adventure"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/LQPVXhN/cover2.jpg",
+      "title": "The Art of Photography",
+      "author": "Michael Davis",
+      "author_img": "https://i.ibb.co/4WCs5nW/author2.jpg",
+      "posted_date": "2023-09-11",
+      "reading_time": 40,
+      "hashtags": ["photography", "art", "creativity"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/zHrgLbT/cover1.jpg",
+      "title": "Fitness for Life",
+      "author": "Sarah Roberts",
+      "author_img": "https://i.ibb.co/4WCs5nW/author2.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 50,
+      "hashtags": ["fitness", "health", "exercise"]
+    }
+  ]
+  
